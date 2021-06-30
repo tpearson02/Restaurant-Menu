@@ -25,9 +25,6 @@ namespace RestaurantMenu
             this.itemDateTime = DateTime.Today;
         }
 
-        internal static void PrintItems()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

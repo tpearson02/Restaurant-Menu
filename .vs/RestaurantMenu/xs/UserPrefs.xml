@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{299CC2AC-DB95-403A-93DB-CED7639CAD61}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantMenu/MenuItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantMenu/Restaurant.cs">
     <Files>
-      <File FileName="RestaurantMenu/Menu.cs" Line="37" Column="13" />
-      <File FileName="RestaurantMenu/MenuItem.cs" Line="17" Column="52" />
-      <File FileName="RestaurantMenu/Program.cs" Line="1" Column="1" />
+      <File FileName="RestaurantMenu/Menu.cs" Line="45" Column="47" />
+      <File FileName="RestaurantMenu/MenuItem.cs" Line="28" Column="9" />
+      <File FileName="RestaurantMenu/Program.cs" Line="32" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RestaurantMenu" expanded="True">
             <Node name="RestaurantMenu" expanded="True">
-              <Node name="MenuItem.cs" selected="True" />
+              <Node name="Restaurant.cs" selected="True" />
             </Node>
           </Node>
         </State>
