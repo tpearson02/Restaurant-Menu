@@ -1,16 +1,31 @@
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.exe
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.deps.json
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.json
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.dev.json
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.dll
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\ref\RestaurantMenu.dll
-E:\C# Projects\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.pdb
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.AssemblyReference.cache
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfoInputs.cache
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfo.cs
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.CoreCompileInputs.cache
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.dll
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\ref\RestaurantMenu.dll
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.pdb
-E:\C# Projects\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.genruntimeconfig.cache
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.exe
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.deps.json
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.json
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.dev.json
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.dll
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/ref/RestaurantMenu.dll
+E:/C# Projects/RestaurantMenu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.pdb
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.AssemblyReference.cache
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfoInputs.cache
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfo.cs
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.CoreCompileInputs.cache
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.dll
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/ref/RestaurantMenu.dll
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.pdb
+E:/C# Projects/RestaurantMenu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.genruntimeconfig.cache
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.AssemblyReference.cache
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfoInputs.cache
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.AssemblyInfo.cs
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.csproj.CoreCompileInputs.cache
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.dll
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/ref/RestaurantMenu.dll
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.pdb
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.deps.json
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.json
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.runtimeconfig.dev.json
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.dll
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/ref/RestaurantMenu.dll
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/bin/Debug/net5.0/RestaurantMenu.pdb
+/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/obj/Debug/net5.0/RestaurantMenu.genruntimeconfig.cache

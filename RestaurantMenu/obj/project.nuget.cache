@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSRTxYmB7rAMp+slHimP+YFmkpcHTKw61QoZ+FdoYKGM/cacCHwfSIEPmAGpnBVNRqsBA3JmEiiGbFCsgVaBOQ==",
+  "dgSpecHash": "XerOPD1lvNEHrNSGBAHiqSX+TLu08g4ayUcK7cIkhon5Ci1ducJVe1ng0Mluwij0LRJEx9zxFzTWDbgIW8Ot9g==",
   "success": true,
-  "projectFilePath": "E:\\C# Projects\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
+  "projectFilePath": "/Users/Taty/launch-code/chapter-18/chapter-18-studio-part-2/Restaurant-Menu/RestaurantMenu/RestaurantMenu.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
